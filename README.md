@@ -1,0 +1,1 @@
+This Project is code for a meta-heuristic algorithm and the main motive here is Node Localization. Given the anchor nodes, there are quite a few unknown nodes, which we need to find the location of. We can use triangulation method and take advantage of anchor nodes for that.
